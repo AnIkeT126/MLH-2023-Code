@@ -20,4 +20,4 @@
 
 ## 🚀 Output
 
-- An output video of the stimulation is provided [here](https://github.com/AnIkeT126/MLH-2023-Code/blob/main/filter.mp4)
+- An output video of the stimulation is provided [here](https://github.com/AnIkeT126/MLH-2023-Code/blob/main/filter.mp4), or can be downloaded using the file filter.mp4.
