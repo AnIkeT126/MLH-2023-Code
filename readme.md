@@ -10,3 +10,14 @@
 - Can upload ant photo
 - Themes available
 - Fully customizable using CSS variables, passing options parameters while adding features, or overriding CSS.
+
+## 🚀 How to use
+
+- Clone the project
+- Install dependcies required like code runner and live server
+- Run the file.
+- Checkout th filters
+
+## 🚀 Output
+
+- An output video of the stimulation is provided [here](https://github.com/AnIkeT126/MLH-2023-Code/blob/main/filter.mp4)
